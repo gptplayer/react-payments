@@ -1,5 +1,4 @@
 templates/**
-docs/**
 src/stories/assets/**
 package-lock.json
 introduction.stories.mdx
