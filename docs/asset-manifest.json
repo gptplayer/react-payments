@@ -7,7 +7,7 @@
     "main.af3fe4e2.js.map": "/react-payments/static/js/main.af3fe4e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d11c3bee.css",
-    "static/js/main.af3fe4e2.js"
+    "/react-payments/static/css/main.d11c3bee.css",
+    "/react-payments/static/js/main.af3fe4e2.js"
   ]
 }
